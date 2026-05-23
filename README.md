@@ -1,6 +1,6 @@
 # HyprLucid
 dingus's official Hyprland config (WIP)
-Please note that these configs are made for Linux in mind, I cannot help with porting to Windows or macOS, that's for you to do\
+This config is primarily tailored towards Hyprland, while some elements from this may work on other TWMs (like i3, Sway, etc.), it's reccomended you stick with Hyprland
 # The Interface
 The Hyprlucid interface can be split into 3 main elements
 1. The Status Bar (Waybar)\
