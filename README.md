@@ -1,5 +1,5 @@
 # HyprLucid
-dingus's official Hyprland config (WIP)
+dingus's official Hyprland config (WIP)\
 This config is primarily tailored towards Hyprland, while some elements from this may work on other TWMs (like i3, Sway, etc.), it's reccomended you stick with Hyprland
 # The Interface
 The Hyprlucid interface can be split into 3 main elements
