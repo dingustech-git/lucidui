@@ -110,4 +110,4 @@ SwayNC acts as a notification daemon and is used for the Dashboard
 Move `swaync` from this repo to `~/.config`
 ## Fastfetch
 Download both the files in the `fastfetch` folder and copy them to `~/.config/fastfetch`\
-You can change the image used by fastfetch by replacing `arch-linux.png` with another image named `arch-linux.png` 350x350 works best
+You can change the image used by fastfetch by replacing `logo.png` with another image named `logo.png` 350x350 works best
