@@ -1,3 +1,4 @@
+![The lucid UI 4 icon](lucidui4-icon.png)
 # lucidUI 4
 lucidUI 4 brings several new changes system-wide
 ## A new name
