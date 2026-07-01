@@ -48,7 +48,7 @@ echo "2. Run SwitchWP, (Choose any number 1-7)"
 echo This will set your wallpaper and set your theme colours
 echo --------------
 echo 3. Add your own wallpapers
-echo Copy your wallpaper of choice to ~/Wallpaper/Library
+echo Copy your wallpaper of choice to ~/Wallpaper/Library/Normal
 echo "Name it a number (example: 8.png)"
 echo "It MUST be PNG"
 echo --------------
