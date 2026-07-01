@@ -66,7 +66,7 @@ When using lucidUI, it is important to learn these keybinds\
 `ALT + [Number]: Switches to that workspace`\
 `ALT + LEFT: Switches to the previous workspace`\
 `ALT + RIGHT: Switches to the next workspace`\
-`ALT + F: Fullscreen`
+`ALT + F: Fullscreen`\
 \
 `SUPER + 1: Close`\
 `SUPER + 0: Exit`\
