@@ -1,3 +1,4 @@
+![The lucid UI 4 icon](lucidui4-icon.png)
 # lucidUI
 Note: lucidUI runs best on Arch (or Arch-based) and NixOS
 ## Pre-Installation
