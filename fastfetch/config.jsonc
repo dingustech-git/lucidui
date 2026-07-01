@@ -87,7 +87,8 @@
         },
         "break",
         {
-            "type": "de",
+            "type": "custom",
+            "format": "lucidUI",
             "key": "󰧨  DE",
             "keyColor": "blue"
         },
