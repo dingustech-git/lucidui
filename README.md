@@ -21,7 +21,8 @@ firefox
 ```
 <details>
   <summary>List of packages for NixOS users</summary>
-  NixOS users can paste this into their configuration.nix\
+  
+  NixOS users can paste this into their configuration.nix
 ```
 fish
 fastfetch
@@ -43,6 +44,7 @@ nautilus
 firefox
 ```
 </details>
+
 ## Installation
 Now that you've installed all the needed tools
 To install lucidUI, download and run `luciduisetup.sh`\
@@ -57,12 +59,12 @@ When using lucidUI, it is important to learn these keybinds\
 `SUPER + W: File Manager`\
 `SUPER + E: Browser (Firefox)`\
 \
-`SUPER + SPACE: Launcher`
+`SUPER + SPACE: Launcher`\
 `ALT + [Number]: Switches to that workspace`\
 `ALT + LEFT: Switches to the previous workspace`\
 `ALT + RIGHT: Switches to the next workspace`\
 `ALT + F: Fullscreen`
 \
-`SUPER + 1: Close`
-`SUPER + 0: Exit`
-`CTRL + ALT + DEL: Logout Menu
+`SUPER + 1: Close`\
+`SUPER + 0: Exit`\
+`CTRL + ALT + DEL: Logout Menu`\
