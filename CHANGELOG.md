@@ -1,11 +1,33 @@
-# Hyprlucid 3
+# lucidUI 4
+lucidUI 4 brings several new changes system-wide
+## A new name
+Hyprlucid is now lucidUI
+## Design Upgrades
+Parts of the design have been given a facelift
+## Redesigned Launcher
+The Launcher has been redesigned, bringing a cleaner look
+## Improved Animations
+The animations are now more fluid and bouncy
+## Redesigned lock screen
+The lock screen now features a more minimalist look
+## Power Options
+Pressing CTRL + ALT + DEL at any time reveals the Power Options, showing options like:\
+Lock
+Logout
+Reboot
+Power Off
+## Install Script
+lucidUI can now be installed faster with the new install script
+> lucidUI 4.0\
+> 1st July 2026
+## Hyprlucid 3
 Hyprlucid 3 brings an updated layout and changes accross the system
-## Taskbar
+### Taskbar
 The Status Bar is now the Taskbar\
 It's at the bottom, and elements have been moved around to create a more intuitive experience that is instantly familiar
-## Updated Animations
+### Updated Animations
 The animations are now a bit smoother
-## Other changes...
+### Other changes...
 Things such as the Launcher have had small tweaks to it's colors
 >Hyprlucid 3.0\
 >19th April 2026
