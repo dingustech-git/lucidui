@@ -19,6 +19,9 @@ wofi
 Nautilus
 firefox
 ```
+The following fonts are also required\
+[Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex)\
+[JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip)
 <details>
   <summary>List of packages for NixOS users</summary>
   
