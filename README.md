@@ -1,5 +1,6 @@
 ![The lucid UI 4 icon](lucidui4-icon.png)
 # lucidUI
+(Formerly Hyprlucid)\
 Note: lucidUI runs best on Arch (or Arch-based) and NixOS
 ## Pre-Installation
 The following tools are required for lucidUI\
