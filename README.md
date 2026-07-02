@@ -63,7 +63,8 @@ It downloads all the config files and copies them to the right place
   
 The install script will not work\
 However, most folders go in `~/.config`\
-Except for the `Wallpaper` folder (goes in `~/`) and the `bibata` folder (goes in `~/.icon`)
+Except for the `Wallpaper` folder (goes in `~/`) and the `bibata` folder (goes in `~/.icons`)
+</details>
 ## Keybinds
 When using lucidUI, it is important to learn these keybinds\
 `SUPER + Q: Terminal`\
